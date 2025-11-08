@@ -47,5 +47,11 @@ TagManager:
   - name: Ground
     uniqueID: 4128221981
     locked: 0
+  - name: Trap
+    uniqueID: 1535498525
+    locked: 0
+  - name: pLAYER
+    uniqueID: 2730794641
+    locked: 0
   m_RenderingLayers:
   - Default
